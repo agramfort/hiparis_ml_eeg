@@ -21,3 +21,4 @@ pip install -r requirements.txt
 
   - [Alexandre Gramfort](http://alexandre.gramfort.net/), Inria
   - [Hubert Banville](https://hubertjb.github.io/), Inria & Interaxon
+  - [Richard Höchenberger](https://hoechenberger.net/), Inria
