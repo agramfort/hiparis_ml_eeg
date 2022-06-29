@@ -1,6 +1,6 @@
 # `Machine learning on electrophysiology EEG signals`
 
-# Course at [Hi!Paris school 2022](https://ai4healthschool.org/)
+# Course at [Hi!Paris school 2022](https://www.summerschool.hi-paris.fr)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agramfort/hiparis_ml_eeg/)
 
