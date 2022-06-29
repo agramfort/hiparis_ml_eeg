@@ -1,8 +1,8 @@
 # `Machine learning on electrophysiology EEG signals`
 
-# Course at [AI4Health school 2021](https://ai4healthschool.org/)
+# Course at [Hi!Paris school 2022](https://ai4healthschool.org/)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agramfort/AI4Health_ml_eeg/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agramfort/hiparis_ml_eeg/)
 
 In this course you will learn about state-of-the-art machine learning approaches for EEG and MEG signals. You will do so with [MNE-Python](https://mne.tools/) which has become a reference tool to process MEG/EEG/sEEG/ECoG data in Python, as well as the [scikit-learn library](https://scikit-learn.org/). You will learn to predict what people attend to given their brain activity or look at predicting sleep stages from clinical EEG data. The materials consist of slides in PDF and Jupyter notebooks using public datasets.
 
